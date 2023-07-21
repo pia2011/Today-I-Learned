@@ -179,3 +179,4 @@ equals() 뿐만아니라 hashcode() 도 재정의해야한다.
 
 - https://tecoble.techcourse.co.kr/post/2020-07-29-equals-and-hashCode/
 - 자바의 정석
+- https://www.baeldung.com/java-hashcode
