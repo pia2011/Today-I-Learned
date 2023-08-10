@@ -16,7 +16,7 @@
 | 8/2   | [[프로젝트] 멀티 쓰레드 환경에서 좋아요❤️ 기능 구현하기](https://velog.io/@gyuseong/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A9%80%ED%8B%B0-%EC%93%B0%EB%A0%88%EB%93%9C-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EC%A2%8B%EC%95%84%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)| 동시성     |
 | 8/7 | [[EFFECTIVE JAVA] equals는 일반 규약을 지켜 재정의하라 ](https://velog.io/@gyuseong/EFFECTIVE-JAVA-equals%EB%8A%94-%EC%9D%BC%EB%B0%98-%EA%B7%9C%EC%95%BD%EC%9D%84-%EC%A7%80%EC%BC%9C-%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC)|JAVA|
 |8/8|[[EFFECTIVE JAVA] equals와 함께 hashCode 도 재정의하라 ](https://velog.io/@gyuseong/EFFECTIVE-JAVA-equals%EC%99%80-%ED%95%A8%EA%BB%98-hashCode-%EB%8F%84-%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC)|JAVA|
-
+|8/9|[[EFFECTIVE JAVA] 클래스와 멤버의 접근 권한을 최소화하라](https://velog.io/@gyuseong/EFFECTIVE-JAVA-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EB%A9%A4%EB%B2%84%EC%9D%98-%EC%A0%91%EA%B7%BC-%EA%B6%8C%ED%95%9C%EC%9D%84-%EC%B5%9C%EC%86%8C%ED%99%94%ED%95%98%EB%9D%BC)|JAVA|
 ## 질문
 
 - 부족함과 궁금증을 채우며 바른 성장을 하기 위함
