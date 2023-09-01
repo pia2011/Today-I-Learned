@@ -29,6 +29,7 @@
 |8/26|[[운영체제] 프로세스 동기화](https://velog.io/@gyuseong/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%8F%99%EA%B8%B0%ED%99%94)|OS|
 |8/28|[[디자인 패턴] 싱글톤 패턴](https://velog.io/@gyuseong/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%EC%8B%B1%EA%B8%80%ED%86%A4-%ED%8C%A8%ED%84%B4)|디자인|
 |8/30|[[운영체제] 교착 상태 (Dead Lock)](https://velog.io/@gyuseong/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%EA%B5%90%EC%B0%A9-%EC%83%81%ED%83%9C-Dead-Lock)|OS|
+|9/1|[[운영체제] 메모리 관리](https://velog.io/@gyuseong/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC)|OS|
 
 ## 원칙
 
